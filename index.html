@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MiraDeTodito</title>
+    <link rel="stylesheet" href="misEstilos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
+    <link rel="icon" href="img/favicon.png" type="image/x-icon">
+</head>
+    
+<body>
+
+<h1>MIRA DE TODITO . COM</h1>
+<h2>¡LAS MEJORES RECOMENDACIONES PARA VOS!</h2>
+
+<div class="seleccionContainer">
+    <p>Selecciona una opción:</p>
+    <select id="seleccionarTipo" class="selectOption">
+        <option value="peliculas.json">Peliculas</option>
+        <option value="series.json">Series</option>
+    </select>
+</div>
+
+<div class="inputContainer">
+    <input placeholder="Ingrese para buscar..." id="miInput" class="inputCuadro">
+    <button id="botonBuscar" class="botonBusqueda">BUSCAR</button>
+</div>
+
+<div>
+    <ul id="miListado">
+    </ul>
+</div>
+
+<div class="carrouselImg">
+    <div class="carrousel" id="carouselWrapper"> 
+        <img src="img/backtothefuture.jpg" alt="Back to the Future">
+        <img src="img/thesopranos.jpg" alt="The Sopranos">
+        <img src="img/forrestgump.jpg" alt="Forrest Gump">
+        <img src="img/shawshankredemption.jpg" alt="Shawshank Redemption">
+        <img src="img/strangerthings.jpg" alt="Stranger Things">
+        <img src="img/schindlerslist.jpg" alt="Schindler's List">
+        <img src="img/matrix.jpeg" alt="Matrix">
+        <img src="img/blackmirror.jpg" alt="Black Mirror">
+        <img src="img/thedrakknight.jpg" alt="The Drak Knigsht">
+        <img src="img/theusualsuspects.jpg" alt="The Usual Suspects">
+        <img src="img/bandofbrothers.jpg" alt="Band of Brothers">
+        <img src="img/got.jpg" alt="Game Of Thrones">
+        <img src="img/breakingbad.jpg" alt="Breaking Bad">
+        <img src="img/theoffice.jpg" alt="The Office">
+        <img src="img/thesimpsons.jpg" alt="The Simpsons">
+        <img src="img/thegodfather.jpg" alt="The Godfather">
+        <img src="img/thewire.jpg" alt="The Wire">
+        <img src="img/fargo.jpg" alt="Fargo">
+        <img src="img/friends.jpg" alt="Friends">
+        <img src="img/pulpfiction.jpg" alt="Pulp Fiction">
+    </div>
+</div>
+
+<script src="misScripts.js"></script>
+</body>
+
+</html>

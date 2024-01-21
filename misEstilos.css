@@ -1,0 +1,131 @@
+* {
+    font-family: 'Manrope', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background: rgb(131,58,180);
+    background: -moz-linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Bungee', sans-serif;
+    letter-spacing: 6px;
+    text-decoration: underline;
+    text-underline-offset: 15px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.seleccionContainer {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    margin: 40px 0 20px 0;
+    align-items: center;
+}
+
+.inputContainer {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0 20px 0;
+    align-items: center;
+}
+
+.inputCuadro {
+    width: 320px;
+    height: 50px;
+    font-size: 16px;
+    color: rgb(131,58,180);
+    border-radius: 5px;
+    border-color:  rgb(131,58,180);
+    padding: 4px;
+}
+
+.botonBusqueda, .selectOption{
+    width: 100px;
+    height: 53.5px;
+    margin-left: 15px;
+    border-radius: 5px;
+    background-color:  rgb(131,58,180);
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.botonBusqueda {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.botonBusqueda:hover {
+    background-color: rgb(252,176,69,1);
+    font-size: 20px;
+}
+
+.selectOption {
+    width: 150px;
+    height: 60px;
+    font-size: 16px;
+    text-align: center;
+}
+
+ul li{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 25px;
+    font-family: 'Bungee', sans-serif;
+}
+
+ul li p{
+    margin: 0 60px 0 60px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.carrouselImg {
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.carrousel {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.carrousel img {
+    width: 100%;
+    height: auto;
+    margin: 30px 30px 30px 30px;
+}
+
+
+.centrada-horizontalmente {
+    display: block;
+    margin: 40px auto; 
+}

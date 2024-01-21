@@ -1,0 +1,15 @@
+{
+    "data": 
+    [ 
+        { "nombre": "BAND OF BROTHERS", "sinopsis": "Narra la historia de la Easy Company, un batallón estadounidense del regimiento 506 de paracaidistas, que luchó en Europa durante la II Guerra Mundial.", "imagen": "img/bandofbrothers.jpg"},
+        { "nombre": "GAME OF THRONES", "sinopsis": "La historia se desarrolla en un mundo ficticio de carácter medieval donde hay Siete Reinos. Hay tres líneas argumentales principales: la crónica de la guerra civil dinástica por el control de Poniente entre varias familias que aspiran al Trono de Hierro; la creciente amenaza de los seres desconocidos que viven al otro lado del muro de hielo; y el viaje de Daenerys Targaryen.", "imagen": "img/got.jpg"},
+        { "nombre": "BREAKING BAD", "sinopsis": "Tras cumplir 50 años, Walter White, un profesor de química se entera de que tiene un cáncer de pulmón incurable. La brutal noticia lo impulsa a dar un drástico cambio a su vida: decide, con la ayuda de un antiguo alumno, fabricar anfetaminas y ponerlas a la venta.", "imagen": "img/breakingbad.jpg"},
+        { "nombre": "THE OFFICE", "sinopsis": "Comedia mockumentary sobre la vida laboral en Dunder Mifflin, Scranton. Con el excéntrico gerente Michael Scott y un elenco diverso, la serie utiliza un formato de documental para explorar el humor en situaciones cotidianas de la oficina. Es conocida por sus momentos cómicos y su estatus icónico en la televisión..", "imagen": "img/theoffice.jpg"},
+        { "nombre": "THE SIMPSONS", "sinopsis": "Narra la historia de una peculiar familia (Homero, Marge, Bart, Maggie y Lisa Simpson) y otros divertidos personajes de la localidad norteamericana de Springfield.", "imagen": "img/thesimpsons.jpg"},
+        { "nombre": "THE SOPRANOS", "sinopsis": "Tony Soprano, jefe de una familia mafiosa en Nueva Jersey, lucha por equilibrar su vida como criminal con sus problemas familiares y personales.", "imagen": "img/thesopranos.jpg"},
+        { "nombre": "THE WIRE", "sinopsis": "Examina la ciudad de Baltimore desde diferentes perspectivas, incluyendo la policía, el sistema educativo y el mundo del crimen organizado, explorando la complejidad de las instituciones sociales.","imagen": "img/thewire.jpg"},
+        { "nombre": "STRANGER THINS", "sinopsis": "En la década de 1980, un grupo de niños en Hawkins, Indiana, se enfrenta a fuerzas sobrenaturales, amistades inquebrantables y conspiraciones gubernamentales.","imagen": "img/strangerthins.jpg"},
+        { "nombre": "FRIENDS", "sinopsis": "Sigue las vidas y relaciones de seis amigos en la ciudad de Nueva York mientras enfrentan desafíos profesionales y personales con mucho humor.","imagen": "img/friends.jpg"},
+        { "nombre": "BLACK MIRROR", "sinopsis": "Una serie de antología que explora los aspectos oscuros y futuros distópicos de la tecnología y su impacto en la sociedad.","imagen": "img/blackmirror.jpg"}
+    ]
+}

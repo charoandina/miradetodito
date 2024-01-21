@@ -1,0 +1,15 @@
+{
+    "data": 
+    [ 
+        { "nombre": "BACK TO THE FUTURE", "sinopsis": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido."},
+        { "nombre": "THE GODFATHER", "sinopsis": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Cuando Corleone se niega a participar en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas."},
+        { "nombre": "FORREST GUMP", "sinopsis": "Forrest Gump sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas."},
+        { "nombre": "THE USUAL SUSPECTS", "sinopsis": "Dave Kujan, un agente especial del servicio de aduanas de Estados Unidos, está investigando las causas del incendio de un barco, en el puerto de San Pedro de Los Ángeles, que provocó 27 víctimas mortales, aunque todas parecen haber sido asesinadas. Su única fuente de información es Roger Kint, un estafador lisiado que sobrevivió al incendio."},
+        { "nombre": "THE SHAWSHANK REDEMPTION", "sinopsis": "Basada en un relato de Stephen King, la película narra la amistad entre dos hombres en una prisión, destacando la esperanza y la redención a pesar de las circunstancias adversas."},
+        { "nombre": "THE DARK KNIGHT", "sinopsis": "Christopher Nolan dirige esta película de superhéroes, donde Batman se enfrenta al Joker en una batalla intensa que pone a prueba la moralidad y la justicia."},
+        { "nombre": "SCHINDLER'S LIST", "sinopsis": "Dirigida por Steven Spielberg, la película cuenta la historia real de Oskar Schindler, un empresario alemán que salva a más de mil judíos durante el Holocausto."},
+        { "nombre": "PULP FICTION", "sinopsis": "Quentin Tarantino presenta una narrativa no lineal que entrelaza múltiples historias, personajes y géneros, explorando la violencia y la cultura pop en Los Ángeles."},
+        { "nombre": "THE MATRIX", "sinopsis": "Los hermanos Wachowski crean esta película de ciencia ficción que introduce conceptos innovadores sobre la realidad y la tecnología, con escenas de acción revolucionarias."},
+        { "nombre": "FARGO", "sinopsis": "Un hombre apocado y tímido, casado con la hija de un millonario que le impide disfrutar de su fortuna, decide contratar a dos delincuentes para que secuestren a su mujer con el fin de montar un negocio propio con el dinero del rescate. Pero, por una serie de azarosas circunstancias, al secuestro se suman tres brutales asesinatos, lo que obliga a la policía a intervenir."}
+    ]
+}
